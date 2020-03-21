@@ -85,7 +85,7 @@
 
 ### 3.2 参考资料
 
-- assets文件夹中的**多人VR开发环境指北**，必看，[地址]()。
+- assets文件夹中的**多人VR开发环境指北**，必看，[地址](https://github.com/2020-web/Project_Web3D)。
 - 一个基于Spring Boot & MyBatis的[种子项目](https://github.com/lihengming/spring-boot-api-project-seed)，用于快速构建中小型API
 
 ## 4. 评分细则 
